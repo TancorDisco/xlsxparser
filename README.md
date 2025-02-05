@@ -8,7 +8,7 @@
 2. **Убедитесь, что установлены зависимости** (Maven/Gradle автоматически подтянет их).
 3. Запустите главный класс:
    ```plaintext
-   ru.sweetbun.xlsxservice.XlsxServiceApplication
+   ru.sweetbun.xlsxparser.XlsxParserApplication
    ```
 4. Перейдите в **Swagger UI**: [http://localhost:8080/swagger-ui.html](http://localhost:8080/swagger-ui.html).
 
